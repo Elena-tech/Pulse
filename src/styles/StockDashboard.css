@@ -1,0 +1,16 @@
+/* src/styles/StockDashboard.css */
+
+.stock-dashboard {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: var(--card-bg);
+  color: var(--card-text-color);
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.stock-dashboard h2 {
+  margin-bottom: 1rem;
+}

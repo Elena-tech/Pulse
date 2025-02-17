@@ -1,0 +1,14 @@
+.dashboard {
+  margin: 2rem auto;
+  padding: 2rem;
+  max-width: 800px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+
+.dashboard p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
