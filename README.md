@@ -79,7 +79,6 @@ pulse-lite-dashboard/
     ├── components/
     │   ├── ChartComponent.tsx
     │   ├── Dashboard.tsx          // Crypto Dashboard
-    │   ├── DogDashboard.tsx       // Example dog dashboard (if used)
     │   ├── FilterPanel.tsx
     │   ├── Header.tsx
     │   ├── Login.tsx
